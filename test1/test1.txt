@@ -1,2 +1,2 @@
-test0
-test2
+#!/bin/bash
+date
