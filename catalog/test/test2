@@ -1,1 +1,1 @@
-test tail
+test sort test.txt | uniq -c | sort -rn | head -n 12
